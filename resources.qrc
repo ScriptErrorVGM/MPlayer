@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>pause-512.png</file>
+        <file>stop-512.png</file>
+        <file>technology_internet_communications20-512.png</file>
+        <file>White Closed.png</file>
+    </qresource>
+</RCC>
